@@ -102,12 +102,29 @@ python app.py
 
 1. Service visible in **SigNoz Services** tab
 
- ![image](https://github.com/user-attachments/assets/43872586-e7e8-4dfd-94df-11247fd00051)
+![image](https://github.com/user-attachments/assets/cb3583e8-dab9-4a6b-9dd9-af68a83beccc)
+
 
 2. `roll` span trace with attributes
-3. Custom `dice.rolls` metric panel
+![image](https://github.com/user-attachments/assets/77a8b15c-b6f8-44b6-8d64-8a7ebb262d5a)
+
+![image](https://github.com/user-attachments/assets/e759e1c7-ef79-4d35-8601-366495cf2deb)
+
+
+3. Custom `dice_rolls` metric panel
+
+![image](https://github.com/user-attachments/assets/fe5daf0d-55e5-4969-bbaa-0e7a694f0488)
+
 4. Logs showing player rolls
+
+![image](https://github.com/user-attachments/assets/b76a288f-4e7c-481b-9f53-be37e6c80c42)
+
+
 5. Error trace from `sides=0`
+
+![image](https://github.com/user-attachments/assets/1b66b402-56d8-4837-9958-c656a97900f9)
+
+
 
 ---
 
