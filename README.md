@@ -101,6 +101,9 @@ python app.py
 ## 📎 Example Screenshots for Submission
 
 1. Service visible in **SigNoz Services** tab
+
+ ![image](https://github.com/user-attachments/assets/43872586-e7e8-4dfd-94df-11247fd00051)
+
 2. `roll` span trace with attributes
 3. Custom `dice.rolls` metric panel
 4. Logs showing player rolls
